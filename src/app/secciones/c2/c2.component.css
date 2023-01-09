@@ -1,0 +1,9 @@
+.color{
+  background-color: rgb(180, 180, 180);
+}
+
+section {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
